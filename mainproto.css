@@ -1,0 +1,298 @@
+#main{
+    width: 100%;
+    height: 631px;
+    background-color: rgba(51,54,70,255);
+
+}
+#header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+#b1{
+    width: 90px;
+    height: 90px;
+}
+#header ul li{
+    display: inline;
+    padding-left: 10px;
+text-align: end;
+text-decoration: none;
+}
+#header ul li a{
+    text-align: end;
+    text-decoration: none;
+    color: white;
+
+}
+.col{
+    
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    
+}
+.col2{
+   
+    top: 100px;
+    left: 500px;
+   
+}
+/* .col1{
+   
+   top: 500px;
+    left: 500px;
+    color: white;
+    
+} */
+#heading{
+    padding-top: 50px;
+    padding-left: 200px;
+    color: white;
+
+}
+.row{
+    
+    width: 600px;
+    height: 400px;
+    margin: 40px;
+    padding: 10px 0px 0px 200px;
+    color: white;
+    position: relative;
+
+}
+.col1{
+    top: 150px;
+    left:850px;
+    color: white;
+    font-size: x-large;
+}
+#heading1{
+    padding: 10px;
+    padding-left: 100px;
+    color: white;
+    
+}
+/* .col3{
+    background-color: aliceblue;
+    width: 300px;
+    height: 50px;
+    left: 250px;
+    top: 280px;
+
+} */
+#hi{
+    width: 100%;
+    height: 200px;
+    background-color:rgba(36,38,53,255);
+    color: rgba(90,92,106,255);
+    padding-left: 20px;
+    margin-top: -50px;
+    
+    /* margin-right: 10px; */
+    
+}
+#ab1{
+    color: white;
+    align-items:justify;
+    font-size: 20px;
+}
+.row3{
+    width: 100%;
+    height: 500px;
+    background-color:rgba(51,54,70,255);
+    position: relative;
+}
+.col{
+    width:400px;
+    height: 400px;
+    margin: 10px;
+    position: absolute;
+}
+.col4{
+    
+    color: rgba(90,92,106,255);
+    padding-left: 50px;
+    top: 70px;
+    left: 300px;
+}
+.col4 img{
+    
+    width: 400px;
+    height: 200px;
+}
+.col5{
+    
+    background-color: antiquewhite;
+    top: 70px;
+    left: 850px;
+}
+.row4{
+    width: 100%;
+    height: 500px;
+    background-color:rgba(37,39,53,255);
+    background-image: linear-gradient(to left,rgba(0,0,0,.50),rgba(0,0,0,1)),url(./image/cover.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+.coll{
+    /* background-color: antiquewhite; */
+    width:200px;
+    height: 300px;
+    
+
+    position: absolute;
+}
+.col11{
+    padding: 50px 0px 0px 60px;
+    
+    top: 70px;
+    left: 300px;
+    
+}
+#bu{
+    font-size: 30px;
+    font-family: 'Bebas Neue', cursive;
+    width: 200px;
+    height: 200px;
+    background-color:rgba(255,174,40,255);
+    text-decoration: solid;
+    border-radius: 10px 10px 10px 10px;
+}
+.col12{
+    padding: 20px;
+    top: 70px;
+    left: 850px;
+    color: #fefeff;
+}
+.col12 img{
+    width: 300px;
+    height: 250px;
+}
+.row5{
+    width: 100%;
+    height: 600px;
+    background-color:rgba(51,55,71,255);
+    position: relative;
+    top: -25px;
+    /* background-image: linear-gradient(to left,rgba(0,0,0,.50),rgba(0,0,0,1)),url(./image/withtrophies.jpg);
+    background-repeat: no-repeat;
+    background-size: 1500px 600px; */
+    
+    align-items: center;
+}
+.colll{
+    /* background-color: antiquewhite; */
+    width:200px;
+    height: 300px;
+    
+
+    position: absolute;
+}
+#wor{
+    color:rgba(255,174,40,255); 
+    padding: 20px;
+}
+.col21{
+    /* background-color: aliceblue; */
+    top: 10px;
+    left: 370px;
+}
+.col21 img{
+    width: 200px;
+    height: 250px;
+
+}
+.col22{
+    /* background-color: aqua; */
+    top: 10px;
+    left: 850px;
+}
+.col22 img{
+    width: 200px;
+    height: 250px;
+}
+#wor2{
+    color:rgba(255,174,40,255); 
+    padding: 20px;
+}
+.row6{
+    background-color: #252735;
+    width: 100%;
+    height: 700px;
+    margin-top: -30px;
+    position: relative;
+}
+.cos{
+    width: 300px;
+    height: 200px;
+ 
+    position: absolute;
+    /* padding: 10px; */
+    
+}
+.cos1{
+    background-color: #feae29;
+    top: -80px;
+    left: 300px;
+    width: 250px;
+    height: 250px;
+    color: white;
+    
+   
+}
+.cos2{
+    background-color: #434656;
+    top: -80px;
+    left: 600px;
+    width: 250px;
+    height: 250px;
+    color:white;
+    
+    
+   
+}
+.cos3{
+    background-color: #434656;
+    top: -80px;
+    left: 900px;
+    width: 250px;
+    height: 250px;
+    color:white;
+    
+    
+   
+}
+.cos4{
+    
+    top: 300px;
+    left: 20px;
+    width: 250px;
+    height: 250px;
+    color:white;
+    
+    
+   
+}
+.cos5{
+    /* background-color: #434656; */
+    top: 300px;
+    left: 1000px;
+    width: 450px;
+    height: 250px;
+    color:white;
+    
+    
+   
+}
+
+
+
+
+
+
